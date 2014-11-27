@@ -1,4 +1,4 @@
-package org.alexdiru;
+package org.alexdiru.bitstringfilter;
 
 import org.knime.core.node.NodeView;
 

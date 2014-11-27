@@ -1,4 +1,4 @@
-package org.alexdiru;
+package org.alexdiru.bitstringfilter;
 
 import org.knime.core.node.defaultnodesettings.DefaultNodeSettingsPane;
 import org.knime.core.node.defaultnodesettings.DialogComponentString;

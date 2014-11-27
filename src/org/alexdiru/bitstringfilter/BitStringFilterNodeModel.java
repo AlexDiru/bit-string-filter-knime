@@ -1,4 +1,4 @@
-package org.alexdiru;
+package org.alexdiru.bitstringfilter;
 
 import java.io.File;
 import java.io.IOException;

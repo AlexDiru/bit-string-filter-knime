@@ -18,7 +18,7 @@
          point="org.knime.workbench.repository.nodes">
       <node
             category-path="/"
-            factory-class="org.alexdiru.BitStringFilterNodeFactory"
+            factory-class="org.alexdiru.bitstringfilter.BitStringFilterNodeFactory"
             id="org.alexdiru.BitStringFilterNodeFactory"/>
    </extension>
    
